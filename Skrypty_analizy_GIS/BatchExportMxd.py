@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 #-*- coding: utf-8 -*-
 '''
-Skrypt służy do zapsiu projekcji arkuszy mapowych MZP i MRP
+Skrypt toolboxa ArcGis służy do zapsiu projekcji arkuszy mapowych MZP i MRP
 '''
 
 import arcpy, os
